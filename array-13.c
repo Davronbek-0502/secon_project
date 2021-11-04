@@ -5,9 +5,9 @@
 
 int main (){
 
-    int n=1, massiv[] = {2,3,4,5,6,7,8,9,7,7,8,6,7,};
+    int n=1, massiv[100];
 
-    for (int i=n;i<13;i+=2){
+    for (int i=n;i<100;i+=2){
         printf("massiv[%d]\n",i);
        
     }
