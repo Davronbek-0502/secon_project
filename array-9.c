@@ -1,15 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <stdbool.h>
-#include <time.h>
-
-
-
 int main () {
     // n va counter o'zgaruvchisini e'lon qilish
     int n, counter=0;
-
     // har safar dastur ishga tushganda tasodifiy sonlarni tanlashga buyruq berish.
     srand(time(NULL));
 
